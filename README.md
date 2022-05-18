@@ -1,7 +1,7 @@
 # boutique-management
 currently a work in progress 
 
-a simple boutique management system for organizing inventory, orders, and more, using Python and MySQL! 
+a simple boutique management system for managing inventory, orders, and more, using Python and MySQL! 
 
 future development: 
 - build a graphical user interface 
