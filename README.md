@@ -6,3 +6,4 @@ a simple boutique management system for managing inventory, orders, and more, us
 future development: 
 - build a graphical user interface 
 - add more features to manipulate/get/update the data 
+- be able to generate reports 
